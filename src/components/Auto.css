@@ -1,0 +1,3801 @@
+.consumerLoansimg {
+    background: url(../image/consumerLoansimg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+
+.ipoteknew {
+    padding-top: 3%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10%;
+}
+
+.ipoteknew .iconimg {
+    width: 65px;
+    height: 65px;
+
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+.ipoteknew .iconimg img {
+    position: relative;
+    left: 30%;
+    top: 30%;
+}
+
+.ipoteknew .textipotek h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.ipoteknew .textipotek p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.jack {
+    display: grid;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+
+
+
+.textipotek {
+    margin-top: 5%;
+}
+
+.row .col-5 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 160%;
+
+    color: #000000;
+    padding-top: 4%;
+}
+
+.row .col-5 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 160%;
+
+    color: #000000;
+    padding-bottom: 10%;
+}
+
+.row .col-5 {
+    padding-left: 3%;
+}
+
+.col-4 img {
+    left: 25%;
+    top: 30%;
+}
+
+.col-4 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 130%;
+
+    color: #000000;
+    text-align: center;
+}
+
+.col-4 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 130%;
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.callMee {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-left: 18%;
+    margin-top: 5%;
+    margin-right: 18%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+
+.callMee h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+
+    text-align: center;
+
+    color: #000000;
+    padding-bottom: 3%;
+}
+
+.callMee .callNumber {
+    width: 100%;
+    height: 81px;
+    left: 96px;
+    top: 112px;
+
+    background: #f3f4f5;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 0.662651px solid #8e8e8e;
+    padding-left: 3%;
+    padding-top: 2%;
+}
+
+.callMee .callNumber h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+
+    color: #8e969f;
+}
+
+.callMee .callNumber input {
+    width: 50%;
+    height: 50%;
+    background: transparent;
+    border: none;
+}
+
+.callMee .callButton {
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.callMee .callButton input {
+    width: 251px;
+    height: 50px;
+    left: 245px;
+    top: 238px;
+
+    background: #e33835;
+    border-radius: 6px;
+    border: none;
+}
+
+.callMee .callButton input {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #ffffff;
+}
+
+.callMee .iconText {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 65px;
+    left: 95px;
+    top: 321px;
+
+    background: #dbebf6;
+    padding-left: 5%;
+}
+
+.callMee .iconText h5 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    color: #000000;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.loanBusiness {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+.loanBusiness1 {
+    width: 100%;
+    padding-right: 5%;
+}
+
+.loanBusiness2 {
+    width: 100%;
+    padding-right: 5%;
+}
+
+.loanBusiness3 {
+    width: 100%;
+}
+
+.loanBusiness p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    color: #888888;
+    margin-bottom: 3%;
+}
+
+.loanBusiness #rangeValue {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.loanBusiness .range {
+    height: 3px;
+}
+
+.hot h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.hot {
+    padding-top: 8%;
+    padding-bottom: 2%;
+}
+
+.ipoteknew .col-4 img {
+    position: relative;
+    left: 25%;
+    top: 30%;
+}
+
+
+
+
+
+
+
+
+
+/* *б*::before,*::after {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+} */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* .body {
+     min-width: 1170px;
+  } */
+
+header li,
+a,
+button {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    color: #424242;
+    text-decoration: none;
+}
+
+a.after:target,
+a.after:active,
+a.after:focus {
+    border-bottom: 1px solid black !important;
+}
+
+.lang.active {
+    color: #000000 !important;
+    font-size: 16px !important;
+}
+
+.loft.active {
+    font-size: 5px;
+    color: #000000 !important;
+    border-bottom: 3px solid #dd221e;
+}
+
+.teg.active {
+    display: block;
+}
+
+form .teg {
+    border-radius: 7px;
+    border-color: #adadad;
+    height: 45px;
+    position: relative;
+    /* padding-left: 50px; */
+    margin-right: 120px;
+    margin-top: 45px;
+    margin-left: -25px;
+    display: none;
+}
+
+header {
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 10px 5%;
+    background: #def1fd;
+    /* height: 532px;  */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.logo {
+    /* position: absolute; */
+    height: 63px;
+    left: 138px;
+    top: 31px;
+    cursor: pointer;
+}
+
+.menu-toggle-btn {
+    float: right;
+    height: 90px;
+    line-height: 90px !important;
+    color: #ffff;
+    font-size: 26px;
+    display: none !important;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 800px) {
+    .menu-toggle-btn {
+        display: block !important;
+    }
+}
+
+.navigation-menu {
+    /* position: relative; */
+    list-style: none;
+    height: 18px;
+    padding: 0px;
+}
+
+@media all and (max-width: 900px) {
+    .navigation-menu {
+        padding-bottom: 10px;
+    }
+}
+
+.navigation-menu li {
+    /* position: relative; */
+    display: inline-block;
+    padding: 0px 10px;
+}
+
+header .navigation-menu a {
+    transition: all 0.3s ease 0s;
+}
+
+header .navigation-menu li a:hover {
+    color: black;
+}
+
+.language {
+    padding-left: 37%;
+}
+
+.lang :active {
+    color: #000000;
+}
+
+@media all and (max-width: 900px) {
+    .language {
+        padding-left: 30px;
+    }
+}
+
+header a.cta button {
+    display: block;
+    margin-left: 15px;
+    padding: 10px;
+    background-color: #e33835;
+    color: #ffffff;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+}
+
+header a.ctb button {
+    display: block;
+    left: 10px;
+    top: 10px;
+    margin-left: 70px;
+    margin-top: 3px;
+    padding: 7px;
+    border-radius: 10px;
+    background-color: #def1fd;
+    color: #000000;
+    cursor: pointer;
+}
+
+.slider {
+    width: 100%;
+    height: 500px;
+    margin: auto;
+    /* margin-top: 25px; */
+    /* border: 1px solid black; */
+    position: relative;
+    overflow: hidden;
+}
+
+@media all and (max-width: 1024px) {
+    .slider {
+        display: none;
+    }
+}
+
+.slide {
+    background: #def1fd;
+}
+
+a:visited {
+    text-decoration: underline !important;
+}
+
+.slide .text {
+    /* padding: 100px 0px 0px 110px; */
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.slide .text h1 {
+    /* position: absolute; */
+    width: 650px;
+    height: 120px;
+    left: 138px;
+    top: 158px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 65px;
+    line-height: 60px;
+    /* or 92% */
+    color: #03416a;
+}
+
+.target {
+    display: flex;
+    padding: 50px 10px 10px 100px;
+    height: 197px;
+}
+
+.target .cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0px 0px 0px 20px;
+    /* position: absolute; */
+    width: 175px;
+    height: 50px;
+    left: 292px;
+    top: 328px;
+    background: #e33835;
+    border-radius: 6px;
+}
+
+.target .cta button {
+    /* Подать заявку */
+    position: static;
+    width: 137px;
+    height: 23px;
+    left: 19px;
+    top: 13.5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+    background: #e33835;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    border: none;
+}
+
+.target .ctb button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* position: absolute; */
+    /* width: 175px; */
+    height: 50px;
+    left: 138px;
+    top: 328px;
+    font-size: 20px;
+    border-radius: 6px;
+    border: 1px solid #b2b2b2;
+    background: transparent;
+    overflow: hidden;
+}
+
+.target img {
+    position: absolute;
+    width: 436px;
+    /* height: 655px; */
+    left: 53%;
+    top: -35px;
+}
+
+.target1 {
+    display: flex;
+    padding: 50px 10px 10px 110px;
+    height: 197px;
+}
+
+.target1 .ctb button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    /* position: absolute; */
+    /* width: 175px; */
+    height: 50px;
+    left: 138px;
+    top: 328px;
+    font-size: 20px;
+    border-radius: 6px;
+    border-color: #b2b2b2;
+    background-color: #def1fd;
+}
+
+.target1 .cta {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin: 0px 0px 0px 20px;
+    /* position: absolute; */
+    width: 175px;
+    height: 50px;
+    left: 292px;
+    top: 328px;
+    background: #e33835;
+    border-radius: 6px;
+}
+
+.target1 .cta button {
+    position: static;
+    width: 137px;
+    height: 23px;
+    left: 19px;
+    top: 13.5px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+    background: #e33835;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 0px 10px;
+    border: none;
+}
+
+.block {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    top: -50px;
+    /* padding: 0px 100px 0px 100px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Roboto;
+}
+
+@media all and (max-width: 1024px) {
+    .block {
+        display: none;
+    }
+}
+
+.block .block1 {
+    width: 290px;
+    height: 148px;
+    left: 435px;
+    top: 480px;
+    background: #cfe8f8;
+    border: 2px;
+    /* border-radius: 10px; */
+    border-color: #424242;
+    cursor: pointer;
+}
+
+.block1.active {
+    background: #ffffff;
+    border-bottom: 3px solid #e33835;
+    height: 160px;
+    margin-top: -10px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.block1.active::before {
+    content: "";
+    display: flex;
+    /* justify-content: center; */
+    position: absolute;
+    margin-left: 120px;
+    margin-top: -20px;
+    /* width: 0;
+      height: 0; */
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 20px solid white;
+}
+
+/* 
+  .slide {
+      width: 1150px;
+      height: 500px;
+      position: absolute;
+      top: 0;
+      left: 0;
+  } */
+
+@keyframes slide2 {
+    from {
+        top: 0;
+        left: 100%;
+    }
+
+    to {
+        top: 0;
+        left: 0;
+    }
+}
+
+@keyframes hide {
+    from {
+        top: 0;
+        left: 0;
+    }
+
+    to {
+        top: 0;
+        left: -100%;
+    }
+}
+
+@keyframes slide {
+    from {
+        top: 0;
+        left: 0;
+    }
+
+    12.5% {
+        transform: translate(0px, 0px);
+    }
+
+    25% {
+        transform: translate(-500px, 0);
+    }
+
+    36% {
+        transform: translate(-500px, 300px);
+    }
+
+    37% {
+        transform: translate(500px, 300px);
+    }
+
+    87.5% {
+        transform: translate(500px, 0);
+    }
+
+    to {
+        transform: (0px, 0px);
+    }
+}
+
+.slide1 {
+    /* background: url(1.jpg); */
+    animation-delay: 7.5s;
+}
+
+.slide2 {
+    /* background: url(2.jpg); */
+    animation-delay: 5s;
+}
+
+.slide3 {
+    /* background: url(3.jpg); */
+    animation-delay: 2.5s;
+}
+
+.slide4 {
+    /* background: url(4.jpg); */
+    animation-delay: 0s;
+}
+
+.slide {
+    width: 100%;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.slide.active {
+    animation-name: slide2;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.slide.hide {
+    animation-name: hide;
+    animation-duration: 0.5s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+.block .block1 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    line-height: 25px;
+    padding: 20px 0px 0px 30px;
+    /* identical to box height */
+    color: #e33835;
+}
+
+.block .block1 h3 {
+    width: 230px;
+    height: 46px;
+    left: 23px;
+    top: 76px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 0px 0px 0px 30px;
+    color: #000000;
+}
+
+.search {
+    height: 194px;
+    left: 0px;
+    top: 690px;
+    background: rgba(13, 123, 197, 0.1);
+    padding: 0px 10% 0px;
+}
+
+@media all and (max-width: 900px) {
+    .search {
+        padding-top: 10px;
+    }
+}
+
+@media all and (max-width: 900px) {
+    .search input {
+        height: 18px;
+    }
+}
+
+.search form {
+    display: flex;
+}
+
+.search h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 20px 0px 10px 0px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.news h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 40px 100px 20px 100px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.news .click a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 40px 100px 20px 100px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.news .news1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 100px 0px 100px;
+}
+
+.news .news1 .news2 {
+    width: 347.92px;
+    height: 347px;
+    /* left: 546.55px; */
+    /* top: 1005px; */
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media all and (max-width: 1024px) {
+    .news .news1 .news2 {
+        padding-top: 5px;
+    }
+}
+
+.news img {
+    padding: 23px 23px 20px 23px;
+}
+
+.news .news1 .news2 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 0px 23px 0px 30px;
+    color: #000000;
+}
+
+.ipotek {
+    display: flex;
+    background: #cce3f3;
+    padding: 0px 100px 0px 75px;
+}
+
+@media all and (max-width: 1024px) {
+    .ipotek {
+        display: block;
+    }
+
+    .ipotek img {
+        width: 410px;
+        height: 220px;
+    }
+}
+
+.ipotek h1 {
+    width: 460px;
+    height: 90px;
+    /* left: 133px;
+  top: 60px; */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 50px 0px 110px 20px;
+    color: #000000;
+}
+
+.ipotek .row {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    margin-left: 0px;
+    color: #000000;
+}
+
+.ipotek li {
+    width: 350px;
+}
+
+.ipotek .row .col-lg-6::before {
+    position: absolute;
+    top: 0px;
+    content: "";
+    display: block;
+    width: 50px;
+    height: 3px;
+    margin: 0px;
+    background: #dd221e;
+    border: 2px solid #dd221e;
+}
+
+.content {
+    padding: 0px 0px 120px 0px;
+}
+
+.content .container {
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+
+.content .container .must {
+    position: relative;
+    text-align: center;
+    width: 25%;
+    height: 115px;
+    background: #eeeeee;
+    border: 1px solid #eeeeee;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    /* Inside Auto Layout */
+    /* flex: none; */
+    order: 0;
+    /* flex-grow: 0; */
+    /* margin: 0px 0px; */
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+.must img {
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+@media all and (max-width: 1024px) {
+    .content .container .must {
+        width: 40%;
+        display: flex;
+        margin: 0px;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .must.active::before {
+        width: 20px;
+        height: 20px;
+    }
+}
+
+.content .container .must h1 {
+    display: inline-flex;
+    text-align: center;
+    /* position: static; */
+    width: 179px;
+    height: 46px;
+    /* left: 47px;
+  top: 0px; */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 23px;
+    color: #000000;
+    /* Inside Auto Layout */
+    transform: translate(0%, 0%);
+    /* margin: 0px 17px; */
+}
+
+.container h1 {
+    font-size: 20px;
+}
+
+@media all and (max-width: 900px) {
+    .container h1 {
+        font-size: 16px;
+        margin: -2px 4px;
+    }
+}
+
+.must.active {
+    background: #ffffff !important;
+}
+
+.must.active::before {
+    content: "";
+    /* background: white; */
+    /* display: flex; */
+    /* justify-content: center; */
+    box-shadow: 10px 5px 5px #e6dcdc;
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    /* margin: 51px 0px 1px 133px; */
+    border-left: 1px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 25px solid white;
+    box-shadow: 4px 4px 4px rgb(0 0 0 / 25%);
+    background: white;
+    transform: translate(-50%, -50%) rotate(45deg);
+    top: 100%;
+    left: 50%;
+    color: white;
+    transform-origin: center;
+}
+
+.cours1.active {
+    display: block;
+    justify-content: center;
+    margin-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.cours1 {
+    display: none;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.cours {
+    display: none;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+@media all and (max-width: 1024px) {
+    .cours {
+        display: block;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .courses1 {
+        width: 100%;
+    }
+}
+
+.cours .courses p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours .courses1 p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours .courses {
+    /* position: absolute; */
+    width: 541.51px;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cours .courses1 {
+    /* position: absolute; */
+    width: 39.3%;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#rangeValue {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.cours .courses .bloc {
+    position: static;
+    width: 76px;
+    height: 39px;
+    left: 92px;
+    top: 0px;
+    background: #eeeeee;
+    border-radius: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 6px;
+    border: none;
+}
+
+.cours .courses .bloc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.cours .courses .bloc.active {
+    background: #023d67;
+    color: white;
+}
+
+.cours h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    margin: 45px 0px 15px 10px;
+    color: #959595;
+}
+
+.cours h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #a4a4a4;
+    margin: 15px 60px 0px 10px;
+}
+
+.cours .courses1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    margin: 20px 0px 10px 30px;
+    color: #000000;
+}
+
+.range {
+    width: 100%;
+    height: 5px;
+    -webkit-appearance: none;
+    background: #dd221e;
+    outline: none;
+    border-radius: 15px;
+}
+
+.cours .courses1 .input {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding-bottom: 1px;
+}
+
+.cours .courses1 .type {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding-bottom: 3px;
+}
+
+.cours .courses1 .button {
+    width: 209px;
+    height: 54px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background: #e33835;
+    border-radius: 5px;
+    border-color: #ffffff;
+}
+
+.cours .courses1 .button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+}
+
+/* cours1 */
+/* .cours1 {
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+  } */
+
+@media all and (max-width: 1024px) {
+    .cours1 {
+        display: block;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .courses1 {
+        width: 100%;
+    }
+}
+
+.cours1 .courses p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours1 .courses1 p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours1 .courses {
+    /* position: absolute; */
+    width: 541.51px;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cours1 .courses1 {
+    /* position: absolute; */
+    width: 39.3%;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#rangeValue {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.cours1 .courses .bloc {
+    position: static;
+    width: 76px;
+    height: 39px;
+    left: 92px;
+    top: 0px;
+    background: #eeeeee;
+    border-radius: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 6px;
+    border: none;
+}
+
+.cours1 .courses .bloc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.cours1 .courses .bloc p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.cours1 .courses .bloc.active p {
+    /* background: #023d67; */
+    color: white;
+}
+
+.cours1 .courses .bloc.active {
+    background: #023d67;
+    color: white;
+}
+
+.cours1 h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    margin: 45px 0px 15px 10px;
+    color: #959595;
+}
+
+.cours1 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #a4a4a4;
+    margin: 15px 60px 0px 10px;
+}
+
+.cours1 .courses1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    margin: 20px 0px 10px 30px;
+    color: #000000;
+}
+
+.range {
+    width: 100%;
+    height: 5px;
+    -webkit-appearance: none;
+    background: #dd221e;
+    outline: none;
+    border-radius: 15px;
+}
+
+.cours1 .courses1 .input {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding-bottom: 1px;
+}
+
+.cours1 .courses1 .type {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    font-size: 18px;
+    border-radius: 50px;
+    padding-bottom: 3px;
+}
+
+.cours1 .courses1 .button {
+    width: 209px;
+    height: 54px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background: #e33835;
+    border-radius: 5px;
+    border-color: #ffffff;
+}
+
+.cours1 .courses1 .button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+    border: none;
+}
+
+/* cours2 */
+.cours2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+@media all and (max-width: 1024px) {
+    .cours2 {
+        display: block;
+    }
+}
+
+@media all and (max-width: 1024px) {
+    .courses1 {
+        width: 100%;
+    }
+}
+
+.cours2 .courses p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours2 .courses1 p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #888888;
+}
+
+.cours2 .courses {
+    /* position: absolute; */
+    width: 541.51px;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+.cours2 .courses1 {
+    /* position: absolute; */
+    width: 39.3%;
+    height: 295px;
+    /* left: 763.49px;
+  top: 2152px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#rangeValue {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.cours2 .courses .bloc {
+    position: static;
+    width: 76px;
+    height: 39px;
+    left: 92px;
+    top: 0px;
+    background: #eeeeee;
+    border-radius: 20px;
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 6px;
+    border: none;
+}
+
+.cours2 .courses .bloc {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.cours .courses .bloc.active {
+    background: #023d67;
+    color: white;
+}
+
+.cours2 h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    margin: 45px 0px 15px 10px;
+    color: #959595;
+}
+
+.cours2 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    color: #a4a4a4;
+    margin: 15px 60px 0px 10px;
+}
+
+.cours2 .courses1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    margin: 20px 0px 10px 30px;
+    color: #000000;
+}
+
+.range {
+    width: 100%;
+    height: 5px;
+    -webkit-appearance: none;
+    background: #dd221e;
+    outline: none;
+    border-radius: 15px;
+}
+
+.cours2 .courses1 .input {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding-bottom: 1px;
+}
+
+.cours2 .courses1 .type {
+    width: 30px;
+    height: 30px;
+    /* left: 31px; */
+    /* top: 121px; */
+    background: #ffffff;
+    border: 1px solid #959595;
+    box-sizing: border-box;
+    border-radius: 50px;
+    padding-bottom: 3px;
+}
+
+.cours2 .courses1 .button {
+    width: 209px;
+    height: 54px;
+    margin-top: 50px;
+    margin-left: 30px;
+    background: #e33835;
+    border-radius: 5px;
+    border-color: #ffffff;
+}
+
+.cours2 .courses1 .button {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+}
+
+.color {
+    background: linear-gradient(0deg,
+            rgba(13, 123, 197, 0.1),
+            rgba(13, 123, 197, 0.1));
+}
+
+.color .text {
+    padding: 100px 0px 0px 100px;
+}
+
+.hero {
+    display: flex;
+    background: #dbebf6;
+    padding: 50px 53px 0px 83px;
+}
+
+@media all and (max-width: 1024px) {
+    .hero {
+        display: block;
+    }
+
+    .hero img {
+        width: 410px;
+        height: 220px;
+    }
+}
+
+.hero .text h1 {
+    width: 394px;
+    height: 90px;
+    /* left: 136px; */
+    /* top: 72px; */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    color: #000000;
+}
+
+.hero .text p {
+    width: 377px;
+    height: 46px;
+    /* left: 137px;
+  top: 186px; */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    margin-top: 20px;
+    color: #797979;
+}
+
+.valut {
+    padding: 100px 100px 100px 100px;
+}
+
+.valut .row>* {
+    padding-right: 0px;
+}
+
+@media all and (max-width: 1024px) {
+    .valut {
+        padding-left: 10px;
+    }
+}
+
+.valut2 {
+    display: flex;
+}
+
+@media all and (max-width: 1024px) {
+    .valut .valut2 {
+        display: block;
+    }
+}
+
+.valut .valut1 {
+    width: 64%;
+    height: 252px;
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    box-sizing: border-box;
+    /* box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25); */
+    border-radius: 15px;
+}
+
+@media all and (max-width: 1024px) {
+    .valut1 {
+        width: 95%;
+    }
+}
+
+.valut .valut1 ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    margin-top: 35px;
+    padding-bottom: 12px;
+    border-bottom: 2px solid #000000;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #cacaca;
+}
+
+.valut .valut1 .container img {
+    width: 22px;
+    height: 17px;
+    left: 49px;
+    top: 96px;
+}
+
+.first {
+    margin-left: 2%;
+}
+
+.valut1 .USD .contents {
+    margin-right: 6%;
+}
+
+.valut1 .EUR .contents {
+    margin-right: -1%;
+}
+
+.valut1 .RUB .contents {
+    margin-right: 12.4%;
+}
+
+.valut .valut1 .container h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 17px;
+    padding: 0px 2px 0px 2px;
+    color: #000000;
+}
+
+.valut .valut1 .container p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #959595;
+}
+
+.valut1 .container h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.valut .converter-valut {
+    width: 366px;
+    height: 227px;
+    margin-left: 112px;
+    background: #f7f7f7;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media all and (max-width: 1024px) {
+    .valut .converter-valut {
+        margin-top: 20px;
+    }
+}
+
+footer {
+    background: #d4e2e7;
+    color: #000000;
+    padding-bottom: 0px;
+}
+
+footer .img {
+    padding: 100px 100px 40px 100px;
+    display: flex;
+    /* justify-content: space-between; */
+}
+
+@media all and (max-width: 1024px) {
+    footer .img {
+        display: block;
+    }
+}
+
+.footer-links {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-top: 100px;
+    padding-right: 100px;
+}
+
+@media all and (max-width: 840px) {
+    .footer-links {
+        display: block;
+    }
+}
+
+a:hover {
+    background-color: none;
+    color: #000000;
+}
+
+.footer-links p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 10px;
+    /* or 120% */
+    color: #000000;
+}
+
+.footer-link {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-link a {
+    padding-bottom: 10px;
+}
+
+.footer img {
+    width: 471px;
+    height: 26px;
+    left: 135px;
+    top: 286px;
+}
+
+.has-line {
+    text-decoration: underline !important;
+}
+
+/* Стил для страницы uslugi */
+
+.contain {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.contain a {
+    /* background: url(image.png); */
+    border-radius: 10px;
+}
+
+.contain .uslugi h1 {
+    width: 270px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+    display: flex;
+    align-items: center;
+    color: #333333;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin: 12px 0px;
+}
+
+.contain .uslugi p {
+    width: 270px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 130%;
+    /* or 19px */
+    color: #aaaeb7;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 12px 0px;
+}
+
+.contain .uslugi {
+    padding: 50px 10px 0px 10px;
+}
+
+/* Стил для страници клик услуга  */
+
+.registration {
+    position: relative;
+    width: 60%;
+    /* height: 861px; */
+    left: 20%;
+    background: #ffffff;
+    box-shadow: 0px 6px 14px rgba(2, 59, 105, 0.15);
+    /* padding: 48px 98px 48px 98px; */
+    margin-top: 3%;
+    margin-bottom: 8%;
+}
+
+.visa1.active {
+    background: #023b69 !important;
+    color: #ffffff !important;
+}
+
+.visa2.active {
+    background: #023b69;
+}
+
+@media all and (max-width: 1024px) {
+    .registration {
+        left: 110px;
+    }
+}
+
+.registration h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #000000;
+}
+
+.registration .visa .visa1 {
+    width: 54px;
+    height: 31px;
+    left: 3px;
+    top: 28px;
+    background: #eeeff1;
+    border: none;
+    border-radius: 16.0526px;
+    /* style for text class visa1 */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.0395px;
+    line-height: 14px;
+    color: #023b69;
+}
+
+.registration .visa .visa2 {
+    width: 98px;
+    height: 31px;
+    left: 67px;
+    top: 28px;
+    background: #023b69;
+    border: none;
+    border-radius: 16.0526px;
+    /* style for text class visa2 */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.0395px;
+    line-height: 14px;
+    color: #023b69;
+}
+
+.registration .grajdan .grajdan1 {
+    width: 46px;
+    height: 31px;
+    left: 235px;
+    top: 28px;
+    background: #eeeff1;
+    border: none;
+    border-radius: 16.0526px;
+    /* style for text class grajdan1 */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.0395px;
+    line-height: 14px;
+    color: #023b69;
+}
+
+.registration .grajdan .grajdan2 {
+    width: 51px;
+    height: 31px;
+    left: 291px;
+    top: 28px;
+    background: #eeeff1;
+    border: none;
+    border-radius: 16.0526px;
+    /* style for text class grajdan2 */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12.0395px;
+    line-height: 14px;
+    color: #023b69;
+}
+
+.registration .text {
+    width: 100%;
+    height: 55px;
+    background: #f3f4f5;
+    border-radius: 3.31325px;
+    /* style for text class text */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+    color: #8e969f;
+    border: 0.662651px solid #8e8e8e;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding-left: 10px;
+}
+
+.registration p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #a8aeb6;
+}
+
+.number1 input::-webkit-outer-spin-button {
+    position: relative;
+    display: none;
+}
+
+.registration .number1 {
+    width: 100%;
+    height: 55px;
+    left: 438px;
+    top: 1241px;
+    background: #f3f4f5;
+    border-radius: 3.31325px;
+    /* style for text class number */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+    color: #8e969f;
+    border: 0.662651px solid #8e8e8e;
+    /* margin-bottom: 26px; */
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding-left: 10px;
+}
+
+.registration .number {
+    width: 100%;
+    height: 55px;
+    left: 438px;
+    top: 1241px;
+    background: #f3f4f5;
+    border-radius: 3.31325px;
+    /* style for text class number */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+    color: #8e969f;
+    border: 0.662651px solid #8e8e8e;
+    /* margin-bottom: 26px; */
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding-left: 10px;
+}
+
+.registration .button {
+    width: 45%;
+    height: 65%;
+    left: 735px;
+    top: 1338px;
+    background: #e33835;
+    border: none;
+    border-radius: 6px;
+    border-color: #e33835;
+    /* style for text class button */
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+.registration .form-check-input {
+    width: 16px;
+    height: 16px;
+    border: 1px solid #354153;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin: 3px 5px 0px -20px;
+}
+
+.registration .next {
+    display: flex;
+    justify-content: center;
+    width: 564px;
+    height: 82px;
+    left: 438px;
+    top: 1322px;
+    align-items: center;
+    /* background: #F5F7F9; */
+    margin-bottom: 26px;
+}
+
+.registration .next h5 {
+    width: 215px;
+    height: 36px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+    color: #8e969f;
+}
+
+.registration h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #212f41;
+}
+
+/* style for text class private */
+
+.private h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+    color: #333333;
+}
+
+.private p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 130%;
+    /* or 23px */
+    color: #aaaeb7;
+}
+
+.index__search::-webkit-search-cancel-button {
+    position: relative;
+    right: 20px;
+    cursor: pointer;
+}
+
+.viza1.active {
+    background: #023d67 !important;
+}
+
+.grajdan1.active {
+    background: #023b69 !important;
+    color: #ffffff !important;
+}
+
+.deposits {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 130%;
+    /* identical to box height, or 65px */
+    color: #000000;
+}
+
+.deposits h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+    color: #959595;
+    padding-left: 7px;
+}
+
+/* .deposits .form-check-input {
+      width: 1%;
+      height: 1%;
+  } */
+
+#summa {
+    width: 38%;
+    height: 37%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    border: none;
+}
+
+#summa1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+    border: none;
+}
+
+.headerimg {
+    background: url(../image/uslugi/servis.png) right bottom;
+    background-color: #70bbd2;
+    /* background-position: right bottom; */
+    background-repeat: no-repeat;
+}
+
+.identificationImg {
+    /* background: url(../image/uslugi/servis.png) right bottom; */
+    background-color: #d4e2e7;
+    /* background-position: right bottom; */
+    background-repeat: no-repeat;
+}
+
+.servisText {
+    /* background-image:url(image/uslugi/servis.png); */
+    /* background: #70bbd2; */
+    padding: 80px 100px 70px 100px;
+    display: flex;
+}
+
+.legal {
+    background-image: url(../image/legal.png);
+}
+
+.privateimg {
+    background: url(../image/privateClient/private.png) right bottom;
+    background-color: #e9ebea;
+    background-repeat: no-repeat;
+}
+
+.holidayimg {
+    background: url(../image/qurbonimg.png);
+    color: #ffffff;
+}
+
+.holiday a {
+    color: #ffffff;
+}
+
+.newsimg {
+    background: url(../image/newsimg.png);
+}
+
+.clickServiceimg {
+    background: url(../image/uslugi/clickService.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.ipoteknew {
+    padding-top: 3%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 10%;
+}
+
+.ipoteknew .iconimg {
+    width: 65px;
+    height: 65px;
+
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+.ipoteknew .iconimg img {
+    position: relative;
+    left: 30%;
+    top: 30%;
+}
+
+.ipoteknew .textipotek h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    /* or 32px */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.ipoteknew .textipotek p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.jack {
+    display: grid;
+    justify-content: center;
+    padding-top: 5%;
+}
+
+.jack .col-2 {
+    border-top: 1px solid #000000;
+    margin-top: 25px;
+    width: 24%;
+    margin-right: -1.5%;
+    margin-left: -7%;
+}
+
+.jack .col-1 {
+    width: 26%;
+}
+
+.jack h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+    padding-top: 5%;
+}
+
+.jack p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* text-align: center; */
+
+    color: #000000;
+}
+
+.jack img {
+    margin-left: 30%;
+}
+
+.right {
+    /* width: 740px; */
+    height: 119px;
+    background: #dbebf6;
+    border-radius: 5px 5px 0px 0px;
+}
+
+.page {
+    display: grid;
+    justify-content: center;
+    /* text-align: center; */
+}
+
+.registration .right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right img {
+    height: 36px;
+    margin-bottom: 15px;
+}
+
+.registration .right p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* or 143% */
+
+    color: #000000;
+    padding-left: 18px;
+    width: 70%;
+}
+
+.ranges {
+    text-align: center;
+}
+
+.ranges h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 30px;
+    /* identical to box height, or 200% */
+
+    color: #000000;
+}
+
+.ranges h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 30px;
+    /* identical to box height, or 200% */
+
+    color: #000000;
+}
+
+.page .onchang {
+    background: #9ad6ff;
+}
+
+.ipoteknew h5 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+
+    color: #000000;
+    text-align: center;
+}
+
+.action {
+    padding-left: 10%;
+    padding-top: 3%;
+    padding-bottom: 6%;
+    background: #eeeeee;
+}
+
+.action h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+
+    color: #000000;
+}
+
+.action .actions {
+    width: 233px;
+    height: 41px;
+
+    background: #d6d6d6;
+    border-radius: 20px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 140%;
+    /* identical to box height, or 21px */
+
+    color: #000000;
+    border: none;
+}
+
+.action .actions.active {
+    width: 233px;
+    height: 41px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 140%;
+    /* identical to box height, or 21px */
+
+    color: #ffffff;
+    background: #023b69;
+    border-radius: 20px;
+}
+
+.action b {
+    font-family: Roboto;
+    font-style: normal;
+    /* font-weight: 500; */
+    font-size: 18px;
+    line-height: 140%;
+    /* or 28px */
+
+    color: #000000;
+}
+
+.action h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 140%;
+    /* or 28px */
+
+    color: #000000;
+}
+
+.action1.active {
+    display: block;
+}
+
+.action1 {
+    display: none;
+}
+
+.next1 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.next1 h3 {
+    width: 75%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+
+    color: #212f41;
+}
+
+.next .button {
+    width: 42%;
+    height: 65%;
+    left: 735px;
+    top: 1338px;
+    background: #e33835;
+    border: none;
+    border-radius: 6px;
+    border-color: #e33835;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+    color: #ffffff;
+    margin-left: 12%;
+    margin-top: 0%;
+}
+
+.consumerLoansimg {
+    background: url(../image/consumerLoansimg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.consumernew {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 3%;
+}
+
+.tj {
+    width: 62px;
+    height: 25px;
+    background: #dbebf6;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 130%;
+    /* or 19px */
+
+    color: #000000;
+}
+
+.tj.active {
+    background: #e33835;
+    color: #ffffff;
+}
+
+.ipotecUSD {
+    display: flex;
+    justify-content: center;
+}
+
+.loansNext {
+    background: #eeeeee;
+    padding-top: 3%;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 5%;
+}
+
+.loansNext h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+
+    color: #000000;
+    padding-bottom: 1%;
+}
+
+.loansNext b {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+    /* or 28px */
+
+    color: #000000;
+}
+
+.loansNext li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 140%;
+    /* or 28px */
+
+    color: #000000;
+}
+
+.loanimg {
+    background: url(../image/loan/loan.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.loanbutton {
+    display: flex;
+    padding-left: 100px;
+    padding-top: 5%;
+    padding-bottom: 7%;
+}
+
+.loanbutton input {
+    width: 164px;
+    height: 47px;
+    left: 307px;
+    top: 329px;
+
+    background: #e33835;
+    border-radius: 3px;
+}
+
+.loanbutton .lbutton {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    border: 2px solid #000000;
+}
+
+.loanbutton .lbutton1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height */
+
+    color: #ffffff;
+}
+
+.loanbutton .lbutton {
+    background: transparent;
+}
+
+.loanbutton.lbutton1 {
+    border: none;
+}
+
+.textipotek {
+    margin-top: 5%;
+}
+
+.row .col-5 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 160%;
+    /* identical to box height, or 48px */
+
+    color: #000000;
+    padding-top: 4%;
+}
+
+.row .col-5 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 160%;
+    /* or 24px */
+
+    color: #000000;
+    padding-bottom: 10%;
+}
+
+.row .col-5 {
+    padding-left: 3%;
+}
+
+.col-4 img {
+    /* position: relative; */
+    left: 25%;
+    top: 30%;
+}
+
+.col-4 h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 130%;
+    /* identical to box height, or 26px */
+
+    color: #000000;
+    text-align: center;
+}
+
+.col-4 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 130%;
+    /* or 18px */
+
+    text-align: center;
+
+    color: #000000;
+}
+
+.callMee {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
+    margin-left: 18%;
+    margin-top: 5%;
+    margin-right: 18%;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 4%;
+    padding-bottom: 5%;
+}
+
+.callMee h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    /* or 26px */
+
+    text-align: center;
+
+    color: #000000;
+    padding-bottom: 3%;
+}
+
+.callMee .callNumber {
+    width: 100%;
+    height: 81px;
+    left: 96px;
+    top: 112px;
+
+    background: #f3f4f5;
+    border-radius: 5px 5px 0px 0px;
+    border-bottom: 0.662651px solid #8e8e8e;
+    padding-left: 3%;
+    padding-top: 2%;
+}
+
+.callMee .callNumber h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* identical to box height, or 21px */
+
+    color: #8e969f;
+}
+
+.callMee .callNumber input {
+    width: 50%;
+    height: 50%;
+    background: transparent;
+    border: none;
+}
+
+.callMee .callButton {
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+    padding-bottom: 8%;
+}
+
+.callMee .callButton input {
+    width: 251px;
+    height: 50px;
+    left: 245px;
+    top: 238px;
+
+    background: #e33835;
+    border-radius: 6px;
+    border: none;
+}
+
+.callMee .callButton input {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #ffffff;
+}
+
+.callMee .iconText {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 65px;
+    left: 95px;
+    top: 321px;
+
+    background: #dbebf6;
+    padding-left: 5%;
+}
+
+.callMee .iconText h5 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    /* identical to box height, or 143% */
+
+    color: #000000;
+    padding-left: 2%;
+    padding-top: 2%;
+}
+
+.loanBusiness {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2%;
+}
+
+.loanBusiness1 {
+    width: 100%;
+    padding-right: 5%;
+}
+
+.loanBusiness2 {
+    width: 100%;
+    padding-right: 5%;
+}
+
+.loanBusiness3 {
+    width: 100%;
+}
+
+.loanBusiness p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    /* identical to box height */
+
+    color: #888888;
+    margin-bottom: 3%;
+}
+
+.loanBusiness #rangeValue {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.loanBusiness .range {
+    height: 3px;
+}
+
+.hot h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.hot {
+    padding-top: 8%;
+    padding-bottom: 2%;
+}
+
+.ipoteknew .col-4 img {
+    position: relative;
+    left: 25%;
+    top: 30%;
+}
+
+.legalimg {
+    background: url(../image/loan/legal.png);
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+}
+
+.newclient1.active {
+    background: #e33835;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 130%;
+    /* or 19px */
+
+    color: #ffffff;
+}
+
+.newclient1 {
+    background: #def1fd;
+    border-radius: 10px;
+    border: none;
+    width: 15%;
+    height: 35px;
+}
+
+.newclient1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 130%;
+    /* or 19px */
+
+    color: #000000;
+}
+
+.newclient {
+    padding-bottom: 3%;
+}
+
+.tomy {
+    background: #ffffff;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    height: 22%;
+    align-items: center;
+    margin-top: -5.5%;
+}
+
+.tomy .tomy1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 31px;
+    line-height: 25px;
+    /* identical to box height */
+
+    color: #e33835;
+    padding-bottom: 5%;
+}
+
+.tomy .tomy1 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 16px;
+
+    color: #000000;
+}
+
+.tomy .tomy1 input {
+    width: 201px;
+    height: 50px;
+
+    background: #e33835;
+    border-radius: 6px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #ffffff;
+    border: none;
+}
+
+.tomy .tomy1 {
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+.newtomy {
+    width: 90%;
+}
+
+.newtomy h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.newtomy p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #000000;
+}
+
+.styles h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 26px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.styles p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+
+    color: #a7a7a7;
+}
+
+.styles {
+    padding-left: 8%;
+    width: 50%;
+}
+
+.tomtext {
+    padding-top: 4%;
+}
+
+.tomtext h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+
+    color: #000000;
+}
+
+.callMeeStart h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+
+    color: #000000;
+}
+
+.callMeeStart h4 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 130%;
+    /* or 19px */
+
+    color: #000000;
+}
+
+.callMeeStart {
+    text-align: center;
+}
+
+.callMeeFinish h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #212f41;
+}
+
+.callMeeFinish {
+    padding-top: 5%;
+}
+
+.deposits1 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.deposits1 h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.deposits1 li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 20px;
+    /* identical to box height, or 133% */
+
+    color: #000000;
+    padding: 1%;
+}
+
+.deposits1 li::marker {
+    color: #e33835;
+}
+
+.depositsBusiness3 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #000000;
+}
+
+.depositsBusiness3 {
+    width: 100%;
+    height: 110px;
+    border: 1px solid #959595;
+}
+
+.tj1 {
+    width: 62px;
+    /* height: 25px; */
+    background: #dbebf6;
+    border: none;
+    border-radius: 0px 10px 10px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 130%;
+    /* or 19px */
+
+    color: #000000;
+}
+
+.tj1.active {
+    background: #e33835;
+    color: #ffffff;
+}
+
+.depositsimg {
+    background: url(../image/depositsimg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.depositsbutton input {
+    width: 251px;
+    height: 50px;
+    left: 136px;
+    top: 312px;
+
+    background: #e33835;
+    border-radius: 6px;
+    border: none;
+}
+
+.depositsbutton input {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 23px;
+
+    color: #ffffff;
+}
+
+.depositsbutton {
+    padding-top: 7%;
+}
+
+.ipoteknew .cours1.active {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.power {
+    display: none;
+}
+
+.power.active {
+    display: flex;
+}
+
+.prep {
+    display: none;
+}
+
+.prep.active {
+    display: flex;
+}
+
+.iqbol {
+    display: none;
+}
+
+.iqbol.active {
+    display: block;
+}
+
+.newselect {
+    display: none;
+}
+
+.newselect.active {
+    display: flex;
+}
+
+#jimy {
+    color: #424242;
+}
+
+.modal-body h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+
+    text-align: center;
+
+    color: #333333;
+}
+
+.modal-body h2 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 130%;
+    /* or 23px */
+
+    color: #626979;
+}
+
+.modal-body h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+
+    color: #000000;
+}
+
+.modal-body p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    /* identical to box height, or 120% */
+
+    color: #3f3d3d;
+    padding-left: 5px;
+}
+
+.modal-body h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+
+    color: #333333;
+}
+
+.modal-body ul li {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #141414;
+}
+
+.newclientHome .newclient1 {
+    width: 200px;
+}
+
+.povtor1 {
+    display: none;
+}
+
+.povtor1.active {
+    display: flex;
+}
+
+.povtorusd {
+    display: none;
+}
+
+.povtorusd.active {
+    display: flex;
+}
+
+#rangeValue1 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#rangeValue7 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#rangeValue5 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#rangeValue8 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#rangeValue9 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+#rangeValue4 {
+    position: relative;
+    display: block;
+    text-align: start;
+    font-size: 23px;
+    color: #000000;
+    font-weight: 400;
+}
+
+.povtor1 .srok {
+    display: none;
+}
+
+.povtor1 .srok.active {
+    display: flex;
+}
+
+.bloc.active p {
+    color: #ffffff;
+}
+
+.validation input:invalid {
+    border: 2px solid red;
+}
+
+/* .validation input:valid {
+      border: 2px solid green;
+    } */
+
+.homePovtor {
+    display: none;
+}
+
+.homePovtor.active {
+    display: flex;
+}
+
+.homePovtor1 {
+    display: none;
+}
+
+.homePovtor1.active {
+    display: flex;
+}
+
+.homePovtor2 {
+    display: none;
+}
+
+.homePovtor2.active {
+    display: flex;
+}
+
+.homevklad {
+    display: none;
+}
+
+.homevklad.active {
+    display: block;
+}
+
+#summa75 {
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+#summa76 {
+    font-family: Roboto;
+    font-size: 30px;
+}
+
+.identify {
+    position: fixed;
+    z-index: 10;
+    left: 87%;
+    top: 80%;
+}
+
+@media screen and (min-width: 1500px) {
+    .identify {
+        z-index: 10;
+        left: 92%;
+        top: 80%;
+    }
+}
+
+.identify a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(205, 221, 223, 0.9);
+    height: 120px;
+    width: 120px;
+
+    border-radius: 50%;
+}
+
+.identify img {
+    width: 50px;
+    height: 50px;
+    /* margin-left: 25px; */
+    /* margin-top: 7px; */
+}
+
+.identify h3 {
+    font-family: Roboto;
+    /* font-style: normal; */
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 23px;
+    /* padding: 0px 23px 0px 30px; */
+    color: #000000;
+}
+
+.iden-next input {
+    background: #204f63;
+    color: rgb(224, 224, 224);
+    border: none;
+    width: 140px;
+    height: 40px;
+    border-radius: 100px;
+}
+
+.clone h1 {
+    font-family: Roboto;
+    /* font-style: normal; */
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    /* padding: 0px 23px 0px 30px; */
+    color: #000000;
+    margin-left: 0px;
+}
+
+.iden-next {
+    padding-top: 10px;
+}
+
+.iden {
+    display: block;
+    margin-left: 350px;
+    margin-right: -100px;
+    background-color: #e7e5e5;
+    border-radius: 15px;
+}
+
+/* ------------------------------------- Страница идентификации ------------------------------------- */
+
+.input_text_fields {
+    border-radius: 10px;
+    /*border-style: solid;
+      /*border-color: #7b7b7b;*/
+
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5px;
+    /*background-color:rgb(224, 224, 224);*/
+}
+
+.input_file_picture {
+    border-radius: 10px;
+    /*border-style: solid;
+      border-color: #7b7b7b;*/
+
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+    /*background-color:rgb(224, 224, 224);*/
+}
+
+.input_file_picture_face_photo_text {
+    position: relative;
+    top: 40px;
+    left: 370px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.input_file_picture_front_side_text {
+    position: relative;
+    top: 40px;
+    left: 370px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.input_file_picture_back_side_text {
+    position: relative;
+    top: 40px;
+    left: 370px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.input_text_fields_name {
+    position: relative;
+    left: 410px;
+    top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.input_text_fields_name_place {
+    position: relative;
+    bottom: 40px;
+    width: 300px;
+    left: 50px;
+}
+
+.input_text_fields_surname {
+    position: relative;
+    left: 410px;
+    top: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+}
+
+.input_text_fields_surname_place {
+    position: relative;
+    bottom: 40px;
+    width: 300px;
+    left: 50px;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type="text"]:focus {
+    background-color: rgb(212, 211, 211);
+    outline: none;
+}
+
+input[type="file"] {
+    margin-right: 20px;
+    width: 100%;
+    max-width: 320px;
+    height: 33px;
+    background: #275a69;
+    color: #fff;
+    font-size: 1.125rem;
+    font-weight: 400;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+input[type="submit"] {
+    margin-left: 530px;
+}
+
+.info {
+    position: relative;
+    width: 350px;
+    height: 685px;
+    bottom: 740px;
+    background-color: rgb(224, 224, 224);
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-size: 20px;
+    border-radius: 13px;
+    padding-top: 50px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.containser_form_accept {
+    top: 700px;
+    left: 470px;
+    font-size: 18px;
+    position: relative;
+    margin-bottom: 1.5rem;
+}

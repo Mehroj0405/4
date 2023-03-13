@@ -1,0 +1,16 @@
+.servisText {
+    /* background-image:url(image/uslugi/servis.png); */
+    /* background: #70bbd2; */
+    padding: 80px 100px 70px 100px;
+    display: flex;
+}
+
+
+
+.headerimg {
+    background: url(../image/uslugi/servis.png) right bottom;
+    background-color: #70bbd2;
+    /* background-position: right bottom; */
+    background-repeat: no-repeat;
+    padding-top: 70px;
+}

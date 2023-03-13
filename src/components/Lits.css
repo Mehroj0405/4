@@ -1,0 +1,64 @@
+.legalimg {
+    background: url(../image/loan/legal.png);
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+}
+
+.legal {
+    background-image: url(../image/legal.png);
+}
+
+
+
+.private h6 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 130%;
+    /* identical to box height, or 39px */
+    color: #333333;
+}
+
+.private p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 130%;
+    color: #aaaeb7;
+}
+
+.index__search::-webkit-search-cancel-button {
+    position: relative;
+    right: 20px;
+    cursor: pointer;
+}
+
+.viza1.active {
+    background: #023d67 !important;
+}
+
+.grajdan1.active {
+    background: #023b69 !important;
+    color: #ffffff !important;
+}
+
+.deposits {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 130%;
+    color: #000000;
+}
+
+.deposits h3 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #959595;
+    padding-left: 7px;
+}

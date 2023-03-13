@@ -1,0 +1,157 @@
+.identificationImg {
+    background: url(../image/uslugi/servis.png) right bottom;
+    background-color: #d4e2e7;
+    /* background-position: right bottom; */
+    background-repeat: no-repeat;
+}
+
+
+
+.identification {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin-inline: auto;
+}
+
+
+
+
+.identification {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin-inline: auto;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+}
+
+.flex-bars {
+    display: flex;
+}
+
+.flex-input {
+    margin-top: 20px;
+}
+
+.leftbar {
+    width: 30%;
+    padding: 1rem;
+    margin-block: 1rem;
+    background-color: rgb(240, 240, 240);
+    border-radius: 10px;
+}
+
+.leftbar p {
+    max-width: 18rem;
+}
+
+.rightbar {
+    width: 70%;
+
+    padding: 1rem;
+    margin-block: 1rem;
+    background-color: rgb(240, 240, 240);
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.rightbar input {
+    max-width: 60%;
+    border-radius: 10px;
+}
+
+.text-input {
+    min-width: 20rem;
+    border: 2px solid rgb(103, 138, 155) !important;
+    margin-right: 10px !important;
+}
+
+.file-input {
+    height: auto !important;
+}
+
+.btn-submit {
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(51, 95, 117);
+    color: white;
+    padding: 0.8rem 1.2rem;
+    width: fit-content;
+}
+
+.btn-submit {
+    margin-block: 2rem;
+    margin-bottom: 4rem;
+}
+
+@media screen and (max-width: 800px) {
+    .file-input {
+        font-size: 14px !important;
+        width: 15rem !important;
+    }
+
+    .flex {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .leftbar {
+        width: 100%;
+    }
+
+    .leftbar p {
+        all: unset;
+    }
+
+    .rightbar {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        width: 100%;
+        padding: 1rem;
+        margin-block: 1rem;
+        background-color: rgb(240, 240, 240);
+        margin-left: 20px;
+        border-radius: 10px;
+    }
+
+    .text-inputs {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .confirm-checkbox {
+        text-align: center;
+    }
+
+    .confirm-checkbox a {
+        color: red;
+    }
+
+    .flex-bars {
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    .flex-input {
+        flex-direction: column;
+    }
+
+    .navigation-menu {
+        /* display: none; */
+    }
+
+    header {
+        height: 9rem;
+    }
+}

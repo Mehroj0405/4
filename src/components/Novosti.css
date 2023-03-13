@@ -1,0 +1,84 @@
+.nowos {
+    padding: 80px 100px 70px 100px;
+
+}
+
+.newsimg {
+    background: url(../image/newsimg.png);
+    height: 310px;
+}
+
+
+
+
+.news h1 {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 40px 100px 20px 100px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.news .click a {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 41px;
+    padding: 40px 100px 20px 100px;
+    /* identical to box height */
+    color: #000000;
+}
+
+.news .news1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 100px 0px 100px;
+}
+
+.news .news1 .news2 {
+    width: 347.92px;
+    height: 347px;
+    /* left: 546.55px; */
+    /* top: 1005px; */
+    background: #ffffff;
+    border: 1px solid rgba(0, 0, 0, 0.14);
+    border-radius: 10px;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+@media all and (max-width: 1024px) {
+    .news .news1 .news2 {
+        padding-top: 5px;
+    }
+}
+
+.news img {
+    padding: 23px 23px 20px 23px;
+}
+
+.news .news1 .news2 p {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    padding: 0px 23px 0px 30px;
+    color: #000000;
+}
+
+.news {
+    padding: 0px 0px 80px 0px
+}
+
+.contain {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
